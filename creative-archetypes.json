@@ -1,0 +1,27 @@
+[
+  {
+    "sectionKey": "Our Diverse Menu",
+    "archetype": "asymmetric-feature",
+    "rationale": "services → asymmetric-feature"
+  },
+  {
+    "sectionKey": "About Sakura Grandville MI",
+    "archetype": "editorial-journal",
+    "rationale": "about → editorial-journal"
+  },
+  {
+    "sectionKey": "Chef's Specialties",
+    "archetype": "minimal-grid",
+    "rationale": "features → minimal-grid"
+  },
+  {
+    "sectionKey": "What Our Guests Say",
+    "archetype": "whitespace-manifesto",
+    "rationale": "testimonials → whitespace-manifesto"
+  },
+  {
+    "sectionKey": "Make a Reservation",
+    "archetype": "whitespace-manifesto",
+    "rationale": "cta → whitespace-manifesto"
+  }
+]
