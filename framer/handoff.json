@@ -1,0 +1,28 @@
+{
+  "archetype": "premium-brutalist",
+  "canvasUrl": "https://framer.com/projects/frm_fda7be5d/sakura-grandville-mi-polished",
+  "wsChannel": "wss://framer.com/canvas/frm_fda7be5d",
+  "palette": {
+    "primary": "#A03C3C",
+    "accent": "#5A8D5A",
+    "bg": "#FFFFFF",
+    "surface": "#F5F5DC",
+    "fg": "#333333"
+  },
+  "motion": {
+    "preset": "snap.cut",
+    "easing": "cubic-bezier(.2,.8,.2,1)",
+    "duration": 220,
+    "springs": [
+      "stiff",
+      "tight"
+    ]
+  },
+  "effects": [
+    "1px hairline grid",
+    "monospace meta labels",
+    "scroll-jacked sections",
+    "no shadows"
+  ],
+  "sourceDeploymentUrl": "https://sakura-grandville-mi-2026-ec7114a0.vercel.app"
+}
